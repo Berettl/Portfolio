@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: 61a2e9c629ef6de4bbbe871be4135360
+  - enabled: 1
+    path: Assets/Scenes/Graveyard.unity
+    guid: f425b1fc31c53174ca0659dd8154155f
+  - enabled: 1
+    path: Assets/Scenes/Destroyed City.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Destroyed City 2.unity
+    guid: 59b6ede1e77c49446af883a8c5cb2695
+  - enabled: 1
+    path: Assets/Scenes/Graveyard 2.unity
+    guid: 12fca6f03cd1a6f42b581a97c9d95730
+  - enabled: 1
+    path: Assets/Scenes/End Screen.unity
+    guid: dd4108abf4eb77e4e943ad3379af3350
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: af0d2a00b82464a4e866720eb87088e7
+  m_configObjects: {}
