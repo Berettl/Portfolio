@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9e472d5ebde274d81ef12b35654da1, type: 3}
+  m_Name: PlayerDataAsset
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  hasHealthUpgraded: 0
+  currentHealth: 100
+  maxXP: 15
+  xp: 0
+  maxStamina: 100
+  currentStamina: 100
+  defaultWalkSpeed: 5
+  sprintSpeed: 7
+  upgradedWalkSpeed: 6
+  healthLevel: 0
+  xpLevel: 0
+  damageReductionLevel: 0
+  staminaLevel: 0
+  speedLevel: 0
+  chargeSpeedLevel: 0
+  weaponDamageLevel: 0
+  fireRateLevel: 0
+  projectileSpeedLevel: 0
+  shieldDurabilityLevel: 0
+  shieldRechargeLevel: 0
+  playerWeapons: []
+  resources: []
